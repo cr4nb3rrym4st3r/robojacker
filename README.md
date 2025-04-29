@@ -1,2 +1,2 @@
 # robojacker
-a jacking robot
+a robot for jacking stuff in the air
